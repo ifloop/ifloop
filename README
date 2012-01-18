@@ -1,0 +1,6 @@
+many people think for-loops are bad
+because they usually count from
+zero to x-1 when they really want to
+count from 1 to x.
+
+the if-loop solves this problem.
